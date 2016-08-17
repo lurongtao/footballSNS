@@ -1,2 +1,0 @@
-# footballSNS
-footballSNS
